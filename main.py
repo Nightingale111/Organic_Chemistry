@@ -14,5 +14,4 @@ thiol()
 # and here
 alkene()
 
-# How to add a pop-up window
-# and graphics/ make it beautiful
+
